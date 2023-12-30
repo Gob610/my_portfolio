@@ -1,0 +1,125 @@
+Fecha,Ubicacion,Local,Resultado,Visitante,year
+4 de abril,Quito,Aucas,2:1,Flamengo,2023
+4 de abril,Concepción,Ñublense,0:2,Racing Club,2023
+19 de abril,Río de Janeiro,Flamengo,2:0,Ñublense,2023
+20 de abril,Avellaneda,Racing Club,3:2,Aucas,2023
+2 de mayo,Concepción,Ñublense,2:1,Aucas,2023
+4 de mayo,Avellaneda,Racing Club,1:1,Flamengo,2023
+23 de mayo,Quito,Aucas,1:2,Racing Club,2023
+24 de mayo,Concepción,Ñublense,1:1,Flamengo,2023
+7 de junio,Quito,Aucas,0:0,Ñublense,2023
+8 de junio,Río de Janeiro,Flamengo,2:1,Racing Club,2023
+28 de junio,Avellaneda,Racing Club,4:0,Ñublense,2023
+28 de junio,Río de Janeiro,Flamengo,4:0,Aucas,2023
+4 de abril,Medellín,Independiente Medellín,1:1,Internacional,2023
+4 de abril,Caracas,Metropolitanos,1:2,Nacional,2023
+18 de abril,Porto Alegre,Internacional,1:0,Metropolitanos,2023
+19 de abril,Montevideo,Nacional,2:1,Independiente Medellín,2023
+3 de mayo,Porto Alegre,Internacional,2:2,Nacional,2023
+3 de mayo,Medellín,Independiente Medellín,4:2,Metropolitanos,2023
+23 de mayo,Medellín,Independiente Medellín,2:1,Nacional,2023
+25 de mayo,Caracas,Metropolitanos,1:2,Internacional,2023
+7 de junio,Montevideo,Nacional,1:1,Internacional,2023
+8 de junio,Caracas,Metropolitanos,0:1,Independiente Medellín,2023
+28 de junio,Montevideo,Nacional,1:0,Metropolitanos,2023
+28 de junio,Porto Alegre,Internacional,3:1,Independiente Medellín,2023
+5 de abril,Asunción,Cerro Porteño,2:1,Barcelona,2023
+5 de abril,La Paz,Bolívar,3:1,Palmeiras,2023
+19 de abril,Guayaquil,Barcelona,2:1,Bolívar,2023
+20 de abril,São Paulo,Palmeiras,2:1,Cerro Porteño,2023
+3 de mayo,Asunción,Cerro Porteño,0:4,Bolívar,2023
+3 de mayo,Guayaquil,Barcelona,0:2,Palmeiras,2023
+23 de mayo,La Paz,Bolívar,1:0,Barcelona,2023
+25 de mayo,Asunción,Cerro Porteño,0:3,Palmeiras,2023
+6 de junio,La Paz,Bolívar,2:0,Cerro Porteño,2023
+7 de junio,São Paulo,Palmeiras,4:2,Barcelona,2023
+29 de junio,São Paulo,Palmeiras,4:0,Bolívar,2023
+29 de junio,Guayaquil,Barcelona,2:2,Cerro Porteño,2023
+4 de abril,La Paz,The Strongest,3:1,River Plate,2023
+5 de abril,Lima,Sporting Cristal,1:3,Fluminense,2023
+18 de abril,Río de Janeiro,Fluminense,1:0,The Strongest,2023
+19 de abril,Buenos Aires,River Plate,4:2,Sporting Cristal,2023
+2 de mayo,Río de Janeiro,Fluminense,5:1,River Plate,2023
+2 de mayo,Lima,Sporting Cristal,1:0,The Strongest,2023
+25 de mayo,La Paz,The Strongest,1:0,Fluminense,2023
+25 de mayo,Lima,Sporting Cristal,1:1,River Plate,2023
+7 de junio,Buenos Aires,River Plate,2:0,Fluminense,2023
+7 de junio,La Paz,The Strongest,1:2,Sporting Cristal,2023
+27 de junio,Río de Janeiro,Fluminense,1:1,Sporting Cristal,2023
+27 de junio,Buenos Aires,River Plate,2:0,The Strongest,2023
+4 de abril,Buenos Aires,Argentinos Juniors,1:0,Independiente del Valle,2023
+6 de abril,Montevideo,Liverpool,0:3,Corinthians,2023
+18 de abril,Quito,Independiente del Valle,2:0,Liverpool,2023
+19 de abril,São Paulo,Corinthians,0:1,Argentinos Juniors,2023
+2 de mayo,Montevideo,Liverpool,2:2,Argentinos Juniors,2023
+2 de mayo,São Paulo,Corinthians,1:2,Independiente del Valle,2023
+24 de mayo,Montevideo,Liverpool,1:0,Independiente del Valle,2023
+24 de mayo,Buenos Aires,Argentinos Juniors,0:0,Corinthians,2023
+7 de junio,Buenos Aires,Argentinos Juniors,2:1,Liverpool,2023
+7 de junio,Quito,Independiente del Valle,3:0,Corinthians,2023
+28 de junio,Quito,Independiente del Valle,3:2,Argentinos Juniors,2023
+28 de junio,São Paulo,Corinthians,3:0,Liverpool,2023
+5 de abril,Pereira,Deportivo Pereira,1:1,Colo-Colo,2023
+6 de abril,Maturín,Monagas,0:0,Boca Juniors,2023
+18 de abril,Buenos Aires,Boca Juniors,2:1,Deportivo Pereira,2023
+19 de abril,Santiago,Colo-Colo,1:0,Monagas,2023
+3 de mayo,Santiago,Colo-Colo,0:2,Boca Juniors,2023
+4 de mayo,Pereira,Deportivo Pereira,2:1,Monagas,2023
+23 de mayo,Maturín,Monagas,1:1,Colo-Colo,2023
+24 de mayo,Pereira,Deportivo Pereira,1:0,Boca Juniors,2023
+6 de junio,Maturín,Monagas,1:0,Deportivo Pereira,2023
+6 de junio,Buenos Aires,Boca Juniors,1:0,Colo-Colo,2023
+29 de junio,Buenos Aires,Boca Juniors,4:0,Monagas,2023
+29 de junio,Santiago,Colo-Colo,0:0,Deportivo Pereira,2023
+4 de abril,Lima,Alianza Lima,0:0,Athletico Paranaense,2023
+6 de abril,Belo Horizonte,Atlético Mineiro,0:1,Libertad,2023
+18 de abril,Curitiba,Athletico Paranaense,2:1,Atlético Mineiro,2023
+20 de abril,Asunción,Libertad,1:2,Alianza Lima,2023
+3 de mayo,Belo Horizonte,Atlético Mineiro,2:0,Alianza Lima,2023
+4 de mayo,Asunción,Libertad,1:2,Athletico Paranaense,2023
+23 de mayo,Belo Horizonte,Atlético Mineiro,2:1,Athletico Paranaense,2023
+23 de mayo,Lima,Alianza Lima,1:2,Libertad,2023
+6 de junio,Curitiba,Athletico Paranaense,1:0,Libertad,2023
+6 de junio,Lima,Alianza Lima,0:1,Atlético Mineiro,2023
+27 de junio,Curitiba,Athletico Paranaense,3:0,Alianza Lima,2023
+27 de junio,Asunción,Libertad,1:1,Atlético Mineiro,2023
+5 de abril,Santa Fe,Patronato,1:2,Atlético Nacional,2023
+6 de abril,Arequipa,Melgar,1:1,Olimpia,2023
+18 de abril,Asunción,Olimpia,1:0,Patronato,2023
+20 de abril,Barranquilla,Atlético Nacional,3:1,Melgar,2023
+2 de mayo,Medellín,Atlético Nacional,2:2,Olimpia,2023
+4 de mayo,Paraná,Patronato,4:1,Melgar,2023
+24 de mayo,Arequipa,Melgar,0:1,Atlético Nacional,2023
+25 de mayo,Santa Fe,Patronato,0:2,Olimpia,2023
+6 de junio,Arequipa,Melgar,5:0,Patronato,2023
+8 de junio,Asunción,Olimpia,3:0,Atlético Nacional,2023
+27 de junio,Medellín,Atlético Nacional,0:1,Patronato,2023
+27 de junio,Asunción,Olimpia,4:1,Melgar,2023
+3 de agosto,Medellín,Atlético Nacional,4:2,Racing Club,2023
+10 de agosto,Avellaneda,Racing Club,3:0,Atlético Nacional,2023
+1 de agosto,La Paz,Bolívar,3:1,Athletico Paranaense,2023
+8 de agosto,Curitiba,Athletico Paranaense,2:0,Bolívar,2023
+3 de agosto,Río de Janeiro,Flamengo,1:0,Olimpia,2023
+10 de agosto,Asunción,Olimpia,3:1,Flamengo,2023
+2 de agosto,Belo Horizonte,Atlético Mineiro,0:1,Palmeiras,2023
+9 de agosto,São Paulo,Palmeiras,0:0,Atlético Mineiro,2023
+2 de agosto,Pereira,Deportivo Pereira,1:0,Independiente del Valle,2023
+9 de agosto,Quito,Independiente del Valle,1:1,Deportivo Pereira,2023
+1 de agosto,Buenos Aires,Argentinos Juniors,1:1,Fluminense,2023
+8 de agosto,Río de Janeiro,Fluminense,2:0,Argentinos Juniors,2023
+1 de agosto,Buenos Aires,River Plate,2:1,Internacional,2023
+8 de agosto,Porto Alegre,Internacional,2:1,River Plate,2023
+2 de agosto,Montevideo,Nacional,0:0,Boca Juniors,2023
+9 de agosto,Buenos Aires,Boca Juniors,2:2,Nacional,2023
+23 de agosto,Buenos Aires,Boca Juniors,0:0,Racing Club,2023
+30 de agosto,Avellaneda,Racing Club,0:0,Boca Juniors,2023
+22 de agosto,La Paz,Bolívar,0:1,Internacional,2023
+29 de agosto,Porto Alegre,Internacional,2:0,Bolívar,2023
+24 de agosto,Río de Janeiro,Fluminense,2:0,Olimpia,2023
+31 de agosto,Asunción,Olimpia,1:3,Fluminense,2023
+23 de agosto,Pereira,Deportivo Pereira,0:4,Palmeiras,2023
+30 de agosto,São Paulo,Palmeiras,0:0,Deportivo Pereira,2023
+28 de septiembre,Buenos Aires,Boca Juniors,vs.,Palmeiras,2023
+5 de octubre,São Paulo,Palmeiras,vs.,Boca Juniors,2023
+27 de septiembre,Río de Janeiro,Fluminense,vs.,Internacional,2023
+4 de octubre,Porto Alegre,Internacional,vs.,Fluminense,2023
