@@ -1,0 +1,40 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <%- include('./partials/head.ejs') %>
+	<link rel="stylesheet" href="/css/ewa.css">
+</head>
+<body>
+    <% if (login) { %>
+        <%- include('./partials/popup.ejs') %>
+        <%- include('./partials/navigator.ejs') %>
+        <main class="main ewa_main-p">
+            <button class="blackBtn prev_button" onclick="window.location.href='http://localhost:3000/aula-prof'">REGRESAR</button>
+            <h2>ASISTENCIA</h2>
+            <form method="post" action="/asistencia" class="box parte_medio">
+                <table class="tabla-asis">
+                    <tr>
+                        <th></th>
+                        <th><h3 name="<%= fechaActual %>"><%= fechaActual %></h3></th>
+                    </tr>
+                    <% for (i = 0; i<alumnos.length ; i++){ %>
+                        <tr class="nom-alum">
+                            <th align="left"><h3><%= alumnos[i].ESTUDIANTE %></h3></th>
+                            <th><input type="checkbox" id="<%= alumnos[i].ID %>"
+                                name="<%= alumnos[i].ID %>"></th>
+                        </tr>
+                    <% } %>
+                </table>
+                <input type="hidden" name="<%= fechaActual %>">
+                <button type="submit"><img src="/icons/disquete.png"> Guardar</button>
+            </form>
+        </main>
+        <%- include('./partials/footer.ejs') %>
+    <% } else { %>
+        <h1><strong><%= name %></strong></h1>
+        <a href="/" class="a-login">Ir al login</a>
+    <% } %>
+</body>
+</html>

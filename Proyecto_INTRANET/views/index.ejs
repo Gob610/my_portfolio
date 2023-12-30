@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/css/login.css">
+        <%- include('./partials/head.ejs') %>
+    </head>
+    <body class="main-login">
+        <main class="container">
+            <section class="login">
+                <div class="title">
+                    <h2>Institución Educativa N°22375</h2>
+                    <img class="insignia1" src="/image/insignia.png">
+                </div>
+                <div class="form">
+                    <form action="auth" method="POST" class="box">
+                        <label class="usuario">Usuario</label>
+                        <input type="text" name="user" id="user" placeholder="Usuario" maxlength="8" oninput="numberOnly(this.id);">
+                        <label class="contraseña">Contraseña</label>
+                        <input type="password" name="pass" id="pass" placeholder="Contraseña">
+                        <input type="submit" class="btn-login" value="Ingresar">
+                    </form>
+                </div>
+            </section>
+            <section class="image">
+                <img class="img-principal" src="/image/main.jpg">
+            </section>
+        </main>
+        
+        <% if(typeof alert != "undefined") { %>
+            <script>
+                Swal.fire({
+                    title: '<%= alertTitle %>',
+                    text: '<%= alertMessage %>',
+                    icon: '<%= alertIcon %>',
+                    showConfirmButton:<%= showConfirmButton %>,
+                    timer: <%= timer %>
+                }).then(()=>{
+                    window.location.href = '/<%= ruta %>';
+                })
+            </script>
+        <% } %>
+        <%- include('./partials/footer.ejs') %>
+    </body>
+</html>

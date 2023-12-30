@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <%- include('./partials/head.ejs') %>
+        <link rel="stylesheet" href="/css/patrick.css">
+        <link rel="stylesheet" href="/css/resp_d_3.css">
+    </head>
+    <body>
+      <%- include('./partials/navigator.ejs') %>
+      <button class="blackBtn prev_button" onclick="window.history.back()">REGRESAR</button>
+      <main class="main grid-patrick">
+        <form class="left_container box scroll-asig" method="post" action="doce-curso-seccion">
+          <button class="box directora_box text_center" name="4">Docentes<br>Ciencias Sociales - 1</button>
+          <button class="box directora_box text_center" name="3">Docentes<br>Ciencia, Tecnologia y Ambiente - 2</button>
+          <button class="box directora_box text_center" name="7">Docentes<br>Educacion Artistica - 3</button>
+          <button class="box directora_box text_center" name="6">Docentes<br>Educacion Fisica - 4</button>
+          <button class="box directora_box text_center" name="10">Docentes<br>Educacion Religiosa - 5</button>
+          <button class="box directora_box text_center" name="8">Docentes<br>Educacion para el Trabajo - 6</button>
+          <button class="box directora_box text_center" name="5">Docentes<br>Ingles - 7</button>
+          <button class="box directora_box text_center" name="2">Docentes<br>Lenguaje y Literatura - 8</button>
+          <button class="box directora_box text_center" name="1">Docentes<br>Matematicas - 9</button>
+          <button class="box directora_box text_center" name="11">Docentes<br>Persona, Familia y Relaciones Humanas - 10</button>
+          <button class="box directora_box text_center" name="9">Docentes<br>Tutoria - 11</button>
+        </form>
+        <div class="right_container">
+          <img src="/image/prom_cursos.png" alt="" class="grafico_cursos grafico_asignaturas">
+        </div>
+      </main>
+      <footer class="footer-raro">
+    
+      </footer>
+    </body>
+</html>

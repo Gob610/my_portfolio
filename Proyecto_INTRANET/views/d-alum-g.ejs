@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <%- include('./partials/head.ejs') %>
+        <link rel="stylesheet" href="/css/patrick.css">
+        <link rel="stylesheet" href="/css/resp_d_2.css">
+    </head>
+    <body>
+      <% if (login) { %>
+      <%- include('./partials/navigator.ejs') %>
+      <button class="blackBtn prev_button" onclick="window.history.back()">REGRESAR</button>
+      <main class="main grid-patrick">
+        <form class="left_container" method="post" action="/desempenoalumnado">
+          <button class="box directora_box text_center" name="1" type="submit">1º Grado</button>
+          <button class="box directora_box text_center" name="2">2º Grado</button>
+          <button class="box directora_box text_center" name="3">3º Grado</button>
+          <button class="box directora_box text_center" name="4">4º Grado</button>
+          <button class="box directora_box text_center" name="5">5º Grado</button>
+        </form>
+        <div class="right_container grafica_container">
+          <img src="/image/general_mean.png" alt="" class="general_mean_graph">
+        </div>
+      </main>
+      <footer class="footer-raro">
+    
+      </footer>
+      <% } else { %>
+        <h1><strong><%= name %></strong></h1>
+        <a href="/" class="a-login">Ir al login</a>
+    <% } %>
+    </body>
+</html>

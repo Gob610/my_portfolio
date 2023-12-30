@@ -1,0 +1,120 @@
+.contenedor-padre{
+    display: flex;
+    flex-direction: column;
+    min-width: 600px;
+  }
+
+  .section-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 0 5%;
+    box-sizing: border-box;
+  }
+
+  .column {
+    flex-basis: 40%;
+    margin: 0 10%;
+    border: 5px solid #000000;
+  }
+
+.contenedor-hijo {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 5px;
+  }
+  
+  .text1 {
+    flex-basis: 75%;
+    word-wrap: break-word;
+  }
+  
+  .text2 {
+    flex-basis: 25%;
+    word-wrap: break-word;
+    text-align: right;
+  }
+
+  .box-sin-linea{
+    display: flex;
+    border: 0px solid #54BDB7;
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 15px;
+    margin: 20px;
+  }
+
+  .titulo1 {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20px;
+  }
+
+  .texto3{
+    font-size: 16px;
+  }
+
+/* SELECCION DOCENTE */
+.contenedor-centrado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .title-div {
+    margin: auto;
+    width: 45vw;
+    padding: auto;
+  }
+  
+  .title1 {
+    margin: auto;
+    font-size: 2vh;
+    text-align: center;
+  }
+  
+  .image-div {
+    width: 50vh;
+    margin: 10px;
+    text-align: center;
+  }
+  .estadistica{
+    width: 100%;
+  }
+
+  .principal{
+    display: flex;
+    justify-content:flex-start;
+    width: 100vw;
+    height: 80vh;
+    display: grid;
+    grid-gap: 40px;
+    /* grid-template-columns: .6fr 1fr; */
+    justify-content: center;
+    align-items: center;
+    padding: 0px 120px;
+  
+  }
+  @media(max-width: 1070px){
+    .title-div{
+      width: 65vw;
+    }
+  @media(max-width: 700px){
+    .title-div{
+      width: 90vw;
+    }
+    .image-div{
+      width: 45vh;
+    }
+  }
+  @media(max-width: 376px){
+    .title-div{
+      width: 99vw;
+    }
+    .image-div{
+      width: 90vw;
+    }
+  }
