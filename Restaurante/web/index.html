@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>El Sabroso</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="Image/Logo.png">
+        <link rel="stylesheet" href="CSS/style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2? family=Oswald:wght@200&family=Roboto:wght@300&family=Satisfy&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/37496787f4.js" crossorigin="anonymous"></script>
+    </head>
+    <body class="cuerpo">
+        <header class="header">
+            <div class="header-logo">
+                <img class="logo-img" src="Image/Logo.png">
+            </div>
+            <nav class="header-nav">
+                <li class="nav-li"><a href="index.html"><i class="fas fa-home"></i><b> Inicio</b></a></li>
+                <li class="nav-li"><a href="paginas/carta.html"><i class="fab fa-readme"></i><b> Carta</b></a></li>
+                <li class="nav-li"><a href="paginas/reserva.html"><i class="fas fa-address-book"></i><b> Reserva</b></a></li>
+                <li class="nav-li"><a href="paginas/Conocenos.html"><i class="fas fa-search-location"></i><b> Conócenos</b></a></li>
+                <li class="nav-li"><a href="paginas/vreserva.html"><i class="fas fa-eye"></i><b> Ver Reservas</b></a></li>
+            </nav>
+            <div class="hdr_btn-container">
+                <button class="hdr_btn ingresar" id="btn-abrir-popup">Ingresar</button>
+                <button class="hdr_btn registrar" id="btn-abrir-popup1">Registrar</button>
+            </div>
+            <!-- BOTON HAMBURGUESA -->
+            <button class="nav-toggle">
+                <i class="fas fa-bars" id="burger"></i>
+            </button>
+        </header>
+        <!--main-->
+        <main>
+        <div class="contenedor1"><!--imagen amplia-->
+        </div>
+        <div class="div-recom"><h2 class="recom-h2">TE RECOMENDAMOS:</h2></div>
+        <div class="recom"><!--Contenedor-->
+            <div class="recom1"><!--Recomendacion numero 1-->
+                <div class="txt-recom"><h4>CARAPULCRA CON SOPA SECA</h4>
+                <p>Inicialmente llamada Kalapurca, es
+                    uno de los platillos peruanos más
+                    antiguos y deliciosos de la historia.
+                    Aveces es acompañada con yuca. </p>
+                </div>
+                <div class="img-recom"><img class="img-rec" src="Image/sopa_seca.jpg"></div>
+            </div>
+            <hr>
+            <div class="recom1"><!--Recomendacion numero 2-->
+                <div class="txt-recom"><h4>ARROZ CON POLLO</h4>
+                <p>Forma parte de todos los recetarios 
+                    de comida peruana que se publican.
+                    Además, su acompañamiento perfecto 
+                    es la Papa a la huancaína.</p></div>
+                <div class="img-recom"><img class="img-rec" src="Image/arroz_pollo.jpg"></div>
+            </div>
+            <hr>
+            <div class="recom1"><!--Recomendacion numero 3-->
+                <div class="txt-recom"><h4>TALLARIN ROJO</h4>
+                <p>Es un platillo de origen italiano que
+                    adaptamos muy bien en la cocina peruana.
+                    Plato delicioso y además nutritivo, 
+                    elaborado con la pasta tallarines.</div>
+                <div class="img-recom"><img class="img-rec" src="Image/tallarines-rojos.jpg"></div>
+            </div>
+        </div>
+        <!-- INICIAR SESION -->
+        <div class="overlay" id="overlay">
+            <div class="popup" id="popup">
+                <a href="#" id="btn-cerrar-popup" class="btn-cerrar-popup"><i class="fas fa-times"></i></a>
+                <h3>INGRESA TU CUENTA</h3>
+                <form action="">
+                    <div class="input_container">
+                        <input type="text" placeholder="Codigo">
+                        <input type="password" placeholder="Contraseña">
+                    </div>
+                    <input type="submit" class="btn-submit" value="Ingresar">
+                </form>
+            </div>
+        </div>
+        <!-- REGISTRARSE -->
+        <div class="overlay" id="overlay1">
+            <div class="popup" id="popup1">
+                <a href="#" id="btn-cerrar-popup1" class="btn-cerrar-popup"><i class="fas fa-times"></i></a>
+                <h3>REGISTRARSE</h3>
+                <form action="">
+                    <div class="input_container">
+                        <input type="text" placeholder="Nombre:">
+                        <input type="text" placeholder="Teléfono:">
+                        <input type="text" placeholder="Correo:">
+                        <input type="password" placeholder="Contraseña">
+                        <div class="radiobuttons">
+                            <div class="radio1">
+                                <input type="radio" class="opcion" id="cliente" name="usuario" value="Cliente" checked>
+                                <label for="cliente">Cliente</label>
+                            </div>
+                            <div class="radio2">
+                                <input type="radio" class="opcion" id="empleado" name="usuario" value="Empleado">
+                                <label for="empleado">Empleado</label>
+                            </div>
+                        </div>
+                    </div>
+                    <input type="submit" class="btn-submit" value="Ingresar">
+                </form>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="ftr_redes">
+            <div class="ftr_red-grid"></div>
+                <a href=""><i class="fab fa-facebook facebook"></i></a>
+                <a href=""><i class="fab fa-instagram instagram"></a></i>
+            </div>
+        </div>
+        <div class="ftr_logo">
+            <img class="ftr_icn" src="image/Logo.png" alt="logo">
+        </div>
+        <div class="ftr_datos">
+            <div class="ftr_d-horario">Horario de Martes a Domingo de 11am a 4pm</div>
+            <div class="ftr_d-direccion">Jr. Cuzco 4ta Cuadra<br>Ica - Perú</div>
+            <div class="ftr_d-telefono">Telefono: </div>
+        </div>
+        <div class="ftr_derechos">
+            @Todos los derechos reservados.
+        </div>
+    </footer>
+    <script src="JS/main.js"></script>
+    </body>
+</html>
