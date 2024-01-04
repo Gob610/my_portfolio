@@ -1,0 +1,66 @@
+Date: 2/11/2023
+Time: 13:7
+Phone Number: +51913498639
+Message: Test
+--------------------
+Date: 3/11/2023
+Time: 14:45
+Phone Number: +51913498639
+Name: Celular, dtype: object
+Message: Mensaje
+--------------------
+Date: 3/11/2023
+Time: 15:12
+Phone Number: +51913498639
+Name: Celular, dtype: object
+Message: Mensaje
+--------------------
+Date: 3/11/2023
+Time: 16:24
+Phone Number: +51913498639
+Name: Celular, dtype: object
+Message: Mensaje
+--------------------
+Date: 3/11/2023
+Time: 17:58
+Phone Number: +51913498639
+Name: Celular, dtype: object
+Message: Mensaje
+--------------------
+Date: 8/11/2023
+Time: 10:41
+Phone Number: +51([], Name: Celular, dtype: object)
+Message: Mensaje
+--------------------
+Date: 8/11/2023
+Time: 10:42
+Phone Number: +51([], Name: Celular, dtype: object)
+Message: Mensaje
+--------------------
+Date: 8/11/2023
+Time: 10:44
+Phone Number: +51([], Name: Celular, dtype: object)
+Message: Mensaje desde python
+--------------------
+Date: 8/11/2023
+Time: 10:46
+Phone Number: +51([], Name: Celular, dtype: object)
+Message: Mensaje desde python
+--------------------
+Date: 8/11/2023
+Time: 10:48
+Phone Number: +51([], Name: Celular, dtype: object)
+Message: Mensaje desde python
+--------------------
+Date: 8/11/2023
+Time: 10:56
+Phone Number: +5150272238
+Name: Celular, dtype: object
+Message: Mensaje desde python
+--------------------
+Date: 8/11/2023
+Time: 12:11
+Phone Number: +51913498639
+Name: Celular, dtype: object
+Message: Mensaje desde python
+--------------------
