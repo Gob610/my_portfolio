@@ -1,0 +1,13 @@
+HISTORIAL DE EJCUCIONES REMIGRACION:
+Fecha: 2024-05-21
+- Hora ejecucion: 2024-05-21 11:00:02.536055:	El archivo se ejecutó correctamente
+Fecha: 2024-05-27
+- Hora ejecucion: 2024-05-27 22:37:10.627087:	El archivo se ejecutó correctamente
+Fecha: 2024-06-03
+- Hora ejecucion: 2024-06-03 11:00:01.669667:	El archivo se ejecutó correctamente
+Fecha: 2024-06-10
+- Hora ejecucion: 2024-06-10 17:02:01.504516:	El archivo se ejecutó correctamente
+Fecha: 2024-06-17
+- Hora ejecucion: 2024-06-17 11:00:02.423934:	El archivo se ejecutó correctamente
+Fecha: 2024-06-24
+- Hora ejecucion: 2024-06-24 11:00:02.107685:	El archivo se ejecutó correctamente
