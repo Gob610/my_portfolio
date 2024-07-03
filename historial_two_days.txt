@@ -1,0 +1,72 @@
+HISTORIAL DE REMIGRACIONES AGROBRAIN:
+
+Fecha: 2024-05-22
+- Hora ejecucion: 2024-05-22 14:30:02.803518:	El archivo se ejecutó correctamente
+Fecha: 2024-05-23
+- Hora ejecucion: 2024-05-23 14:30:02.812130:	El archivo se ejecutó correctamente
+Fecha: 2024-05-24
+- Hora ejecucion: 2024-05-24 14:30:02.921593:	El archivo se ejecutó correctamente
+Fecha: 2024-05-25
+- Hora ejecucion: 2024-05-25 14:30:02.903605:	El archivo se ejecutó correctamente
+Fecha: 2024-05-26
+- Hora ejecucion: 2024-05-26 14:30:02.898672:	El archivo se ejecutó correctamente
+Fecha: 2024-05-27
+- Hora ejecucion: 2024-05-27 14:30:03.085429:	El archivo se ejecutó correctamente
+Fecha: 2024-05-29
+- Hora ejecucion: 2024-05-29 14:30:02.975214:	El archivo se ejecutó correctamente
+Fecha: 2024-05-30
+- Hora ejecucion: 2024-05-30 14:30:02.992515:	El archivo se ejecutó correctamente
+Fecha: 2024-05-31
+- Hora ejecucion: 2024-05-31 14:30:03.097783:	El archivo se ejecutó correctamente
+Fecha: 2024-06-01
+- Hora ejecucion: 2024-06-01 14:30:03.103464:	El archivo se ejecutó correctamente
+Fecha: 2024-06-02
+- Hora ejecucion: 2024-06-02 14:30:03.067595:	El archivo se ejecutó correctamente
+Fecha: 2024-06-03
+- Hora ejecucion: 2024-06-03 14:30:02.684790:	El archivo se ejecutó correctamente
+Fecha: 2024-06-05
+- Hora ejecucion: 2024-06-05 14:30:03.281653:	El archivo se ejecutó correctamente
+Fecha: 2024-06-06
+- Hora ejecucion: 2024-06-06 14:30:03.209854:	El archivo se ejecutó correctamente
+Fecha: 2024-06-07
+- Hora ejecucion: 2024-06-07 14:30:03.329507:	El archivo se ejecutó correctamente
+Fecha: 2024-06-08
+- Hora ejecucion: 2024-06-08 14:30:03.308324:	El archivo se ejecutó correctamente
+Fecha: 2024-06-11
+- Hora ejecucion: 2024-06-11 15:31:53.735094:	El archivo se ejecutó correctamente
+Fecha: 2024-06-12
+- Hora ejecucion: 2024-06-12 14:30:02.559678:	El archivo se ejecutó correctamente
+Fecha: 2024-06-13
+- Hora ejecucion: 2024-06-13 14:30:02.515724:	El archivo se ejecutó correctamente
+Fecha: 2024-06-14
+- Hora ejecucion: 2024-06-14 14:30:03.253440:	El archivo se ejecutó correctamente
+Fecha: 2024-06-15
+- Hora ejecucion: 2024-06-15 14:30:02.803298:	El archivo se ejecutó correctamente
+Fecha: 2024-06-16
+- Hora ejecucion: 2024-06-16 14:30:03.148734:	El archivo se ejecutó correctamente
+Fecha: 2024-06-17
+- Hora ejecucion: 2024-06-17 14:30:02.277198:	El archivo se ejecutó correctamente
+Fecha: 2024-06-18
+- Hora ejecucion: 2024-06-18 14:30:02.954166:	El archivo se ejecutó correctamente
+Fecha: 2024-06-19
+- Hora ejecucion: 2024-06-19 14:30:02.812740:	El archivo se ejecutó correctamente
+Fecha: 2024-06-20
+- Hora ejecucion: 2024-06-20 14:30:02.735188:	El archivo se ejecutó correctamente
+Fecha: 2024-06-21
+- Hora ejecucion: 2024-06-21 14:30:02.651536:	El archivo se ejecutó correctamente
+Fecha: 2024-06-22
+- Hora ejecucion: 2024-06-22 14:30:02.798072:	El archivo se ejecutó correctamente
+Fecha: 2024-06-23
+- Hora ejecucion: 2024-06-23 14:30:03.190054:	El archivo se ejecutó correctamente
+Fecha: 2024-06-24
+- Hora ejecucion: 2024-06-24 14:30:01.877580:	El archivo se ejecutó correctamente
+Fecha: 2024-06-25
+- Hora ejecucion: 2024-06-25 14:30:02.156669:	El archivo se ejecutó correctamente
+Fecha: 2024-06-25
+- Hora ejecucion: 2024-06-25 19:48:08.892200:	El archivo se ejecutó correctamente
+Fecha: 2024-06-26
+- Hora ejecucion: 2024-06-26 14:30:04.009430:	El archivo se ejecutó correctamente
+Fecha: 2024-06-27
+- Hora ejecucion: 2024-06-27 14:30:03.086298:	El archivo se ejecutó correctamente
+Fecha: 2024-06-28
+- Hora ejecucion: 2024-06-28 14:30:03.261305:	El archivo se ejecutó correctamente
